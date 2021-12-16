@@ -21,3 +21,10 @@ Lollipop-Biryani
 Special-Chicken Biryani
 Mutton-Biryani
 Fish-Biryani
+Mutton-boneless Biryani
+
+Curries:
+CashewNut-curry
+Mushroom-curry
+Paneer-Masala curry
+Gobi-munchuria curry
