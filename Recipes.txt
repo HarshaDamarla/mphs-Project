@@ -6,4 +6,18 @@ Corn Soup
 Chicken 65
 Cashew nuts fry
 
-Veg:
+Vegetarian Items:
+Roti
+Veg-Biryani
+Butter-naan
+Chapati
+Mushroom_Biryani
+CashewNut_Biryani
+
+Non-Veg_Items:
+Chicken-Biryani(boneless)
+Joint-Biryani
+Lollipop-Biryani
+Special-Chicken Biryani
+Mutton-Biryani
+Fish-Biryani
